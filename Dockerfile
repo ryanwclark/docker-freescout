@@ -2,7 +2,7 @@ FROM ryanwclark/nginx-php-fpm:8.0
 LABEL maintainer="Ryan Clark (github.com/ryanwclark)"
 
 ### Set Defaults
-ENV FREESCOUT_VERSION=1.7.11 \
+ENV FREESCOUT_VERSION=1.7.16 \
     FREESCOUT_REPO_URL=https://github.com/freescout-helpdesk/freescout \
     NGINX_WEBROOT=/www/html \
     PHP_CREATE_SAMPLE_PHP=FALSE \
