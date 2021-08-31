@@ -1,6 +1,5 @@
 # github.com/ryanwclark/docker-freescout
 
-[![GitHub release](https://img.shields.io/github/v/tag/ryanwclark/docker-freescout?style=flat-square)](https://github.com/ryanwclark/docker-freescout/releases/latest)
 [![Build Status](https://img.shields.io/github/workflow/status/ryanwclark/docker-freescout/build?style=flat-square)](https://github.com/ryanwclark/docker-freescout/actions?query=workflow%3Abuild)
 [![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/freescout.svg?style=flat-square&logo=docker)](https://hub.docker.com/r/ryanwclark/freescout/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/freescout.svg?style=flat-square&logo=docker)](https://hub.docker.com/r/ryanwclark/freescout/)
