@@ -12,10 +12,6 @@ This will build a Docker Image for [Freescout](https://freescout.net/) - An open
 
 * Automatically installs and sets up installation upon first start
 
-## Maintainer
-
-- [Ryan Clark](https://github.com/ryanwclark)
-
 ## Table of Contents
 
 
